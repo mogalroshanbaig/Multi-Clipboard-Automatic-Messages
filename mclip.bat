@@ -1,2 +1,2 @@
-@py.exe C:\Users\mogal\mclip.py %*
+@py.exe C:\path_to_file\mclip.py %*
 @pause
