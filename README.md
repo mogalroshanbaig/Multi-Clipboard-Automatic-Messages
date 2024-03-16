@@ -7,5 +7,7 @@ We can use the copied message.The Phrases are:
 'agree':Yes, I agree. That sounds fine to me.
 'busy':Sorry, can we do this later this week or next week?
 'upsell':Would you consider making this a monthly donation?
+
 ![mclip_cmd](https://github.com/mogalroshanbaig/Multi-Clipboard-Automatic-Messages/assets/96071713/b7d5659d-1b39-41c9-b11b-d4007e461de9)
+
 ![mclip_board](https://github.com/mogalroshanbaig/Multi-Clipboard-Automatic-Messages/assets/96071713/ab449893-0101-4233-b836-58558c82243c)
